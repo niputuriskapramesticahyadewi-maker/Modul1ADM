@@ -1,7 +1,7 @@
 # Proyek Akuisisi dan Manajemen Data
 Mata kuliah : BIFP-243 Akuisisi dan Manajemen Data
 Nama / NIM  : Ni Putu Riska Pramesti Cahya Dewi / 2501010315
-Tujuan      : mMemahami konsep Data Akuisisi dan Manajemen Data
+Tujuan      : Memahami konsep Data Akuisisi dan Manajemen Data
 
 ## Struktur Folder 
 - data/raw        : data mentah hasil akuisisi (READ-ONLY)
